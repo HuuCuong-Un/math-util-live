@@ -26,6 +26,9 @@ public class MathUtilLive {
 
         //MathUtil.getFactorial(-5); ném ngoại lệ thật
         
+        //THÊM CODE SAU LẦN ĐẦU TIÊN LÀM CHUYỆN ẤY - CODE LÊN SEVER 1:54AM 3/9/2022 
+        System.out.println("expected 1! = 1; actual: " + MathUtil.getFactorial(1));
+        System.out.println("expected 3! = 6; actual: " + MathUtil.getFactorial(3));
         
         //kĩ thuật kiểm thử phần mềm: ước lượng xem giá trị trả về của làm gì
         //expected value: 5! = 120
