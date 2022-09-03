@@ -40,7 +40,7 @@ public class MathUtil {
             
         return product;
         
-        
+    System.out.println("l cuong");
         
         
         
